@@ -22,7 +22,7 @@ This is a simple and efficient Todo List application designed to streamline your
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todo-list-app.git
+   git clone https://github.com/irfanhussain25/iTask-Your-Task-Planner.git
 
 2. Install dependencies:
     ```bash
